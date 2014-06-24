@@ -4,9 +4,9 @@ var module;
 
 config = {
     files: {
-        build: 'src/marionette.googleAnalyticsEvents.js',
+        build: 'lib/marionette.googleAnalyticsEvents.js',
         check: [
-            'src/marionette.googleAnalyticsEvents.js',
+            'lib/marionette.googleAnalyticsEvents.js',
             'Gruntfie.js'
         ],
         dest: 'dist/marionette.googleAnalyticsEvents.min.js',
@@ -44,7 +44,7 @@ module.exports = function(grunt) {
         groc: {
             options: {
                 out: config.files.docs,
-                strip: 'src/'
+                strip: 'lib/'
             },
             all: {
                 src: config.files.build

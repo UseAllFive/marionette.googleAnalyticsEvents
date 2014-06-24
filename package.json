@@ -1,6 +1,6 @@
 {
   "name": "marionette.googleAnalyticsEvents",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Trigger Google Analytics event and route calls from Marionette views/routes.",
   "repository": {
     "type": "git",
