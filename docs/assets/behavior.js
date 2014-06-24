@@ -17,8 +17,8 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/Users/justinanastos/ua5/marionette.googleAnalyticsEvents/src/marionette.googleAnalyticsEvents.js",
-        "projectPath": "src/marionette.googleAnalyticsEvents.js",
+        "sourcePath": "/Users/justinanastos/ua5/marionette.googleAnalyticsEvents/lib/marionette.googleAnalyticsEvents.js",
+        "projectPath": "lib/marionette.googleAnalyticsEvents.js",
         "targetPath": "marionette.googleAnalyticsEvents",
         "pageTitle": "marionette.googleAnalyticsEvents",
         "firstHeader": {
